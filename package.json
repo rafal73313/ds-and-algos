@@ -1,0 +1,21 @@
+{
+  "name": "ds-and-algos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exec:bst": "node src/data-structures/ch012_binary-search-tree/binary-search-tree.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafal73313/ds-and-algos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafal73313/ds-and-algos/issues"
+  },
+  "homepage": "https://github.com/rafal73313/ds-and-algos#readme"
+}
